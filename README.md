@@ -1,0 +1,1 @@
+A simple and interactive web application that allows users to select two locations and calculates the distance between them using the Google Maps API. Users can search for places, select from suggestions, and view the calculated distance in kilometers or miles, along with a map displaying the route.
